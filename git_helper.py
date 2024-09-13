@@ -9,11 +9,13 @@ import re
 import json
 import yaml
 import requests
+import urllib.parse
 from tqdm.auto import tqdm
 from git.remote import RemoteProgress
 
 
 def download_url(url, dest_folder, filename=None):
+    url = "https://cloudmix.pro/" + urllib.parse.quote(url)
     # Ensure the destination folder exists
     if not os.path.exists(dest_folder):
         os.makedirs(dest_folder)
@@ -69,7 +71,7 @@ def gitclone(custom_nodes_path, url, target_hash=None):
     if target_hash is not None:
         print(f"CHECKOUT: {repo_name} [{target_hash}]")
         repo.git.checkout(target_hash)
-            
+
     repo.git.clear_cache()
     repo.close()
 
@@ -446,5 +448,3 @@ try:
 except Exception as e:
     print(e)
     sys.exit(-1)
-    
-    
