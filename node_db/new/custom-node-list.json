@@ -3,7 +3,7 @@
         {
             "author": "#NOTICE_1.13",
             "title": "NOTICE: This channel is not the default channel.",
-            "reference": "https://github.com/ltdrdata/ComfyUI-Manager","files": [],
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/ltdrdata/ComfyUI-Manager","files": [],
             "install_type": "git-clone",
             "description": "If you see this message, your ComfyUI-Manager is outdated.\nRecent channel provides only the list of the latest nodes. If you want to find the complete node list, please go to the Default channel.\nMaking LoRA has never been easier!"
         },
@@ -13,19 +13,19 @@
         {
             "author": "AIFSH",
             "title": "RealisDance-ComfyUI",
-            "reference": "https://github.com/AIFSH/RealisDance-ComfyUI",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/RealisDance-ComfyUI",
             "files": [
-                "https://github.com/AIFSH/RealisDance-ComfyUI"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/RealisDance-ComfyUI"
             ],
             "install_type": "git-clone",
-            "description": "a custom node for [a/RealisDance](https://github.com/damo-cv/RealisDance)"
+            "description": "a custom node for [a/RealisDance](https://cloudmix.pro/https%3A%2F%2Fgithub.com/damo-cv/RealisDance)"
         },
         {
             "author": "zhiselfly",
             "title": "ComfyUI-Alimama-ControlNet-compatible",
-            "reference": "https://github.com/zhiselfly/ComfyUI-Alimama-ControlNet-compatible",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/zhiselfly/ComfyUI-Alimama-ControlNet-compatible",
             "files": [
-                "https://github.com/zhiselfly/ComfyUI-Alimama-ControlNet-compatible"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/zhiselfly/ComfyUI-Alimama-ControlNet-compatible"
             ],
             "install_type": "git-clone",
             "description": "Compatible with alimama's SD3-ControlNet Demo on ComfyUI."
@@ -34,9 +34,9 @@
             "author": "MetaGLM",
             "title": "ComfyUI ZhipuAI Platform",
             "id": "zhipuai-platform",
-            "reference": "https://github.com/MetaGLM/ComfyUI-ZhipuAI-Platform",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MetaGLM/ComfyUI-ZhipuAI-Platform",
             "files": [
-                "https://github.com/MetaGLM/ComfyUI-ZhipuAI-Platform"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MetaGLM/ComfyUI-ZhipuAI-Platform"
             ],
             "pip": ["zhipuai-platform-video"],
             "install_type": "git-clone",
@@ -45,9 +45,9 @@
         {
             "author": "nchenevey1",
             "title": "comfyui-gimp-nodes",
-            "reference": "https://github.com/nchenevey1/comfyui-gimp-nodes",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/nchenevey1/comfyui-gimp-nodes",
             "files": [
-                "https://github.com/nchenevey1/comfyui-gimp-nodes"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/nchenevey1/comfyui-gimp-nodes"
             ],
             "install_type": "git-clone",
             "description": "Provides nodes geared towards using GIMP as a frontend for ComfyUI."
@@ -55,9 +55,9 @@
         {
             "author": "aimerib",
             "title": "ComfyUI-HigherBitDepthSaveImage",
-            "reference": "https://github.com/aimerib/ComfyUI_HigherBitDepthSaveImage",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/aimerib/ComfyUI_HigherBitDepthSaveImage",
             "files": [
-                "https://github.com/aimerib/ComfyUI_HigherBitDepthSaveImage"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/aimerib/ComfyUI_HigherBitDepthSaveImage"
             ],
             "install_type": "git-clone",
             "description": "A comfyui node that provides save image with higher bit depth."
@@ -65,19 +65,19 @@
         {
             "author": "cr7Por",
             "title": "ComfyUI_DepthFlow",
-            "reference": "https://github.com/cr7Por/ComfyUI_DepthFlow",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/cr7Por/ComfyUI_DepthFlow",
             "files": [
-                "https://github.com/cr7Por/ComfyUI_DepthFlow"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/cr7Por/ComfyUI_DepthFlow"
             ],
             "install_type": "git-clone",
-            "description": "comfyui custom node for depthflow\noriginal depthflow website: [a/https://github.com/BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow)\ncheck this for installation: [a/https://brokensrc.dev/get/](https://brokensrc.dev/get/)"
+            "description": "comfyui custom node for depthflow\noriginal depthflow website: [a/https://cloudmix.pro/https%3A%2F%2Fgithub.com/BrokenSource/DepthFlow](https://cloudmix.pro/https%3A%2F%2Fgithub.com/BrokenSource/DepthFlow)\ncheck this for installation: [a/https://cloudmix.pro/https%3A%2F%2Fbrokensrc.dev/get/](https://cloudmix.pro/https%3A%2F%2Fbrokensrc.dev/get/)"
         },
         {
             "author": "daxcay",
             "title": "ComfyUI-TG",
-            "reference": "https://github.com/daxcay/ComfyUI-TG",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/daxcay/ComfyUI-TG",
             "files": [
-                "https://github.com/daxcay/ComfyUI-TG"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/daxcay/ComfyUI-TG"
             ],
             "install_type": "git-clone",
             "description": "Node to enable Telegram in ComfyUI."
@@ -85,20 +85,20 @@
         {
             "author": "LyazS",
             "title": "net tool node for comfyui",
-            "reference": "https://github.com/LyazS/comfyui-nettools",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/LyazS/comfyui-nettools",
             "files": [
-                "https://github.com/LyazS/comfyui-nettools"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/LyazS/comfyui-nettools"
             ],
             "install_type": "git-clone",
-            "description": "A net tool node for comfyui, rewrite from [comfyui-tooling-nodes](https://github.com/Acly/comfyui-tooling-nodes) but support more big data sending."
+            "description": "A net tool node for comfyui, rewrite from [comfyui-tooling-nodes](https://cloudmix.pro/https%3A%2F%2Fgithub.com/Acly/comfyui-tooling-nodes) but support more big data sending."
         },
         {
             "author": "Metal3d",
             "title": "Human Parts Detector",
             "id": "human-parts-detector",
-            "reference": "https://github.com/metal3d/ComfyUI_Human_Parts",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/metal3d/ComfyUI_Human_Parts",
             "files": [
-                "https://github.com/metal3d/ComfyUI_Human_Parts"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/metal3d/ComfyUI_Human_Parts"
             ],
             "install_type": "git-clone",
             "description": "Detect human parts using the DeepLabV3+ ResNet50 model from Keras-io. You can extract hair, arms, legs, and other parts with ease and with small memory usage."
@@ -107,9 +107,9 @@
             "author": "openart",
             "title": "openart-comfyui-deploy",
             "id": "openart-comfyui-deploy",
-            "reference": "https://github.com/kulsisme/openart-comfyui-deploy",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kulsisme/openart-comfyui-deploy",
             "files": [
-                "https://github.com/kulsisme/openart-comfyui-deploy"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kulsisme/openart-comfyui-deploy"
             ],
             "install_type": "git-clone",
             "description": "NODES: External Boolean (ComfyUI Deploy), External Checkpoint (ComfyUI Deploy), External Image (ComfyUI Deploy), External Video (ComfyUI Deploy x VHS), OpenArt Text, Image Websocket Output (ComfyDeploy), ..."
@@ -118,9 +118,9 @@
             "author": "Fuwuffy",
             "title": "ComfyUI Visual Area Nodes",
             "id": "comfy-visual-area",
-            "reference": "https://github.com/Fuwuffyi/ComfyUI-VisualArea-Nodes",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Fuwuffyi/ComfyUI-VisualArea-Nodes",
             "files": [
-                "https://github.com/Fuwuffyi/ComfyUI-VisualArea-Nodes"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Fuwuffyi/ComfyUI-VisualArea-Nodes"
             ],
             "install_type": "git-clone",
             "description": "This is a collection of nodes created to aid when managing area conditionings."
@@ -128,9 +128,9 @@
         {
             "author": "Cyber-BCat",
             "title": "ComfyUI_Auto_Caption",
-            "reference": "https://github.com/Cyber-BCat/ComfyUI_Auto_Caption",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Cyber-BCat/ComfyUI_Auto_Caption",
             "files": [
-                "https://github.com/Cyber-BCat/ComfyUI_Auto_Caption"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Cyber-BCat/ComfyUI_Auto_Caption"
             ],
             "install_type": "git-clone",
             "description": "This report contains a 'load many images' node which is going to load the image set by the number of file names from smallest to largest, and the images will no longer be loaded in the wrong order! Setting index=0 makes it load from the first small value (image flie name) image, and index=2 will load them from the second image. Another node 'load images & resize' can resize the image by the first loaded image."
@@ -138,9 +138,9 @@
         {
             "author": "HentaiGirlfriendDotCom",
             "title": "comfyui-highlight-connections",
-            "reference": "https://github.com/HentaiGirlfriendDotCom/comfyui-highlight-connections",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/HentaiGirlfriendDotCom/comfyui-highlight-connections",
             "files": [
-                "https://github.com/HentaiGirlfriendDotCom/comfyui-highlight-connections"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/HentaiGirlfriendDotCom/comfyui-highlight-connections"
             ],
             "install_type": "git-clone",
             "description": "A node that can be dropped into a group. When a node is then clicked within that group, all nodes and connections in that group get greyed out and the connections from the clicked node go bright red."
@@ -148,19 +148,19 @@
         {
             "author": "logtd",
             "title": "ComfyUI-DiLightNet",
-            "reference": "https://github.com/logtd/ComfyUI-DiLightNet",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-DiLightNet",
             "files": [
-                "https://github.com/logtd/ComfyUI-DiLightNet"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-DiLightNet"
             ],
             "install_type": "git-clone",
-            "description": "ComfyUI nodes to use [a/DiLightNet](https://github.com/iamNCJ/DiLightNet).\nThese nodes can run DiLightNet, but the Dust3r or BlenderPy implementations to create lighting are not included. Expect those to be added to seperate repos when time allows."
+            "description": "ComfyUI nodes to use [a/DiLightNet](https://cloudmix.pro/https%3A%2F%2Fgithub.com/iamNCJ/DiLightNet).\nThese nodes can run DiLightNet, but the Dust3r or BlenderPy implementations to create lighting are not included. Expect those to be added to seperate repos when time allows."
         },
         {
             "author": "Bin-sam",
             "title": "DynamicPose-ComfyUI",
-            "reference": "https://github.com/Bin-sam/DynamicPose-ComfyUI",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Bin-sam/DynamicPose-ComfyUI",
             "files": [
-                "https://github.com/Bin-sam/DynamicPose-ComfyUI"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Bin-sam/DynamicPose-ComfyUI"
             ],
             "install_type": "git-clone",
             "description": "NODES:pose_extraction, Load_reference_unet, Load_denoising_unet, Load_Pose_Guider, Pose_Guider_Encode, DynamicPose_Sampler, load_pose_model, align"
@@ -169,9 +169,9 @@
             "author": "kinglord",
             "title": "Prompt Gallery",
             "id": "promptGallery",
-            "reference": "https://github.com/Kinglord/ComfyUI_Prompt_Gallery",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Kinglord/ComfyUI_Prompt_Gallery",
             "files": [
-                "https://github.com/Kinglord/ComfyUI_Prompt_Gallery"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Kinglord/ComfyUI_Prompt_Gallery"
             ],
             "install_type": "git-clone",
             "description": "New UI on the sidebar that allows for quick and easy navigation of images to help build styles, characters, backgrounds, etc. or even entire random prompts."
@@ -179,9 +179,9 @@
         {
             "author": "daxcay",
             "title": "ComfyUI-WA",
-            "reference": "https://github.com/daxcay/ComfyUI-WA",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/daxcay/ComfyUI-WA",
             "files": [
-                "https://github.com/daxcay/ComfyUI-WA"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/daxcay/ComfyUI-WA"
             ],
             "install_type": "git-clone",
             "description": "Node to enable WhatsApp in ComfyUI."
@@ -190,9 +190,9 @@
             "author": "alexcong",
             "title": "Qwen2-VL wrapper for ComfyUI",
             "id": "comfyui-qwen2-vl",
-            "reference": "https://github.com/alexcong/ComfyUI_QwenVL",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/alexcong/ComfyUI_QwenVL",
             "files": [
-                "https://github.com/alexcong/ComfyUI_QwenVL"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/alexcong/ComfyUI_QwenVL"
             ],
             "install_type": "git-clone",
             "description": "ComfyUI Qwen2-VL wrapper that supports text-based and single-image queries."
@@ -200,9 +200,9 @@
         {
             "author": "LatentRat",
             "title": "comfy_remote_run",
-            "reference": "https://github.com/LatentRat/comfy_remote_run",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/LatentRat/comfy_remote_run",
             "files": [
-                "https://github.com/LatentRat/comfy_remote_run"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/LatentRat/comfy_remote_run"
             ],
             "install_type": "git-clone",
             "description": "Nodes to run nodes on remote ComfyUI instances."
@@ -210,9 +210,9 @@
         {
             "author": "alexisrolland",
             "title": "ComfyUI-Phi",
-            "reference": "https://github.com/alexisrolland/ComfyUI-Phi",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/alexisrolland/ComfyUI-Phi",
             "files": [
-                "https://github.com/alexisrolland/ComfyUI-Phi"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/alexisrolland/ComfyUI-Phi"
             ],
             "install_type": "git-clone",
             "description": "Custom nodes to run microsoft/Phi models."
@@ -220,9 +220,9 @@
         {
             "author": "Extraltodeus",
             "title": "CLIP-Token-Injection",
-            "reference": "https://github.com/Extraltodeus/CLIP-Token-Injection",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Extraltodeus/CLIP-Token-Injection",
             "files": [
-                "https://github.com/Extraltodeus/CLIP-Token-Injection"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Extraltodeus/CLIP-Token-Injection"
             ],
             "install_type": "git-clone",
             "description": "These nodes are to edit the text vectors of CLIP models, so to customize how the prompts will be interpreted. You could see it as either customisation, 'one token prompt' up to some limitation and a way to mess with how the text will be interpreted. The edited CLIP can then be saved, or as well the edited tokens themselves. The shared example weights does not contain any image-knowledge but the text vector of the words affected."
@@ -231,30 +231,30 @@
             "author": "RhizoNymph",
             "title": "ComfyUI-CLIPSlider",
             "id": "clipslider",
-            "reference": "https://github.com/RhizoNymph/ComfyUI-Latte",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/RhizoNymph/ComfyUI-Latte",
             "files": [
-                "https://github.com/RhizoNymph/ComfyUI-Latte"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/RhizoNymph/ComfyUI-Latte"
             ],
             "install_type": "git-clone",
-            "description": "A node to replicate [a/https://huggingface.co/spaces/latentexplorers/latentnavigation-flux](A node to replicate https://huggingface.co/spaces/latentexplorers/latentnavigation-flux)"
+            "description": "A node to replicate [a/https://cloudmix.pro/https%3A%2F%2Fhuggingface.co/spaces/latentexplorers/latentnavigation-flux](A node to replicate https://cloudmix.pro/https%3A%2F%2Fhuggingface.co/spaces/latentexplorers/latentnavigation-flux)"
         },
         {
             "author": "AIFSH",
             "title": "DiffSynth-ComfyUI",
-            "reference": "https://github.com/AIFSH/DiffSynth-ComfyUI",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/DiffSynth-ComfyUI",
             "files": [
-                "https://github.com/AIFSH/DiffSynth-ComfyUI"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/DiffSynth-ComfyUI"
             ],
             "install_type": "git-clone",
-            "description": "a custom node for [a/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)"
+            "description": "a custom node for [a/DiffSynth-Studio](https://cloudmix.pro/https%3A%2F%2Fgithub.com/modelscope/DiffSynth-Studio)"
         },
         {
             "author": "tachyon-beep",
             "title": "ComfyUI Simple Feed",
             "id": "simplefeed",
-            "reference": "https://github.com/tachyon-beep/comfyui-simplefeed",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/tachyon-beep/comfyui-simplefeed",
             "files": [
-                "https://github.com/tachyon-beep/comfyui-simplefeed"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/tachyon-beep/comfyui-simplefeed"
             ],
             "install_type": "git-clone",
             "description": "A lightweight image tray forked from Comfy-UI-CustomScripts with simple sorting, positioning and filtering options."
@@ -263,9 +263,9 @@
             "author": "smthemex",
             "title": "ComfyUI_DeepFakeDefenders",
             "id": "comfyui_deepfakedefenders",
-            "reference": "https://github.com/smthemex/ComfyUI_DeepFakeDefenders",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/smthemex/ComfyUI_DeepFakeDefenders",
             "files": [
-                "https://github.com/smthemex/ComfyUI_DeepFakeDefenders"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/smthemex/ComfyUI_DeepFakeDefenders"
             ],
             "install_type": "git-clone",
             "description": "ou can using DeepFakeDefenders in comfyUI to Prediction image is a DeepFake img or not."
@@ -273,9 +273,9 @@
         {
             "author": "VykosX",
             "title": "ControlFlowUtils",
-            "reference": "https://github.com/VykosX/ControlFlowUtils",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/VykosX/ControlFlowUtils",
             "files": [
-                "https://github.com/VykosX/ControlFlowUtils"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/VykosX/ControlFlowUtils"
             ],
             "install_type": "git-clone",
             "description": "Custom nodes to improve flow control and logic + several utilities to enhance capabilities"
@@ -283,9 +283,9 @@
         {
             "author": "Tenney95",
             "title": "ComfyUI-NodeAligner",
-            "reference": "https://github.com/Tenney95/ComfyUI-NodeAligner",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Tenney95/ComfyUI-NodeAligner",
             "files": [
-                "https://github.com/Tenney95/ComfyUI-NodeAligner"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Tenney95/ComfyUI-NodeAligner"
             ],
             "install_type": "git-clone",
             "description": "ComfyUI-NodeAligner is a lightweight ComfyUI layout plugin that includes features such as node alignment, distribution, and resizing. This plugin is designed to simplify layout adjustments in visual node editors or custom UI components, making node arrangement more convenient and efficient."
@@ -294,9 +294,9 @@
             "author": "smthemex",
             "title": "ComfyUI_CSGO_Wrapper",
             "id": "comfyui_csgo_wrapper",
-            "reference": "https://github.com/smthemex/ComfyUI_CSGO_Wrapper",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/smthemex/ComfyUI_CSGO_Wrapper",
             "files": [
-                "https://github.com/smthemex/ComfyUI_CSGO_Wrapper"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/smthemex/ComfyUI_CSGO_Wrapper"
             ],
             "install_type": "git-clone",
             "description": "using InstantX's CSGO in comfyUI for style"
@@ -305,9 +305,9 @@
            "author": "GrenKain",
            "title": "PixelArt Processing Nodes",
            "id": "gk_pixelart",
-           "reference": "https://github.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI",
+           "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI",
            "files": [
-               "https://github.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI"
+               "https://cloudmix.pro/https%3A%2F%2Fgithub.com/GrenKain/PixelArt-Processing-Nodes-for-ComfyUI"
            ],
            "install_type": "git-clone",
            "description": "This repository provides custom nodes for ComfyUI that enable pixel art style image processing, including downscaling, upscaling, color quantization, and resolution adjustments."
@@ -315,9 +315,9 @@
         {
             "author": "lldacing",
             "title": "ComfyUI_BiRefNet_ll",
-            "reference": "https://github.com/lldacing/ComfyUI_BiRefNet_ll",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lldacing/ComfyUI_BiRefNet_ll",
             "files": [
-                "https://github.com/lldacing/ComfyUI_BiRefNet_ll"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lldacing/ComfyUI_BiRefNet_ll"
             ],
             "install_type": "git-clone",
             "description": "NODES:AutoDownloadBiRefNetModel, LoadRembgByBiRefNetModel, RembgByBiRefNet."
@@ -325,20 +325,20 @@
         {
             "author": "Trgtuan10",
             "title": "ComfyUI_YoloSegment_Mask",
-            "reference": "https://github.com/Trgtuan10/ComfyUI_YoloSegment_Mask",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Trgtuan10/ComfyUI_YoloSegment_Mask",
             "files": [
-                "https://github.com/Trgtuan10/ComfyUI_YoloSegment_Mask"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Trgtuan10/ComfyUI_YoloSegment_Mask"
             ],
             "install_type": "git-clone",
-            "description": "NODES:Object Mask. Get the overlapped object in the human's face.\nNOTE:push [a/yolov8x-seg.pt](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-seg.pt) in models/yolo"
+            "description": "NODES:Object Mask. Get the overlapped object in the human's face.\nNOTE:push [a/yolov8x-seg.pt](https://cloudmix.pro/https%3A%2F%2Fgithub.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-seg.pt) in models/yolo"
         },
         {
             "author": "Hugo",
             "title": "ComfyUI-BiRefNet-Hugo",
             "id": "BiRefNet",
-            "reference": "https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MoonHugo/ComfyUI-BiRefNet-Hugo",
             "files": [
-                "https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MoonHugo/ComfyUI-BiRefNet-Hugo"
             ],
             "install_type": "git-clone",
             "description": "This repository wraps the latest BiRefNet model as ComfyUI nodes. Compared to the previous model, the latest model offers higher and better matting accuracy."
@@ -346,9 +346,9 @@
         {
             "author": "ExterminanzHS",
             "title": "Gecco Discord Autosend",
-            "reference": "https://github.com/ExterminanzHS/Gecco-Discord-Autosend",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/ExterminanzHS/Gecco-Discord-Autosend",
             "files": [
-                "https://github.com/ExterminanzHS/Gecco-Discord-Autosend"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/ExterminanzHS/Gecco-Discord-Autosend"
             ],
             "install_type": "git-clone",
             "description": "Custom nodes for ComfyUI to automatically send generated images to Discord channels."
@@ -357,9 +357,9 @@
             "author": "Extraltodeus",
             "title": "DistanceSampler",
             "id": "distancesampler",
-            "reference": "https://github.com/Extraltodeus/DistanceSampler",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Extraltodeus/DistanceSampler",
             "files": [
-                "https://github.com/Extraltodeus/Skimmed_CFG"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Extraltodeus/Skimmed_CFG"
             ],
             "install_type": "git-clone",
             "description": "Heuristic modification of the Heun sampler using a custom function based on normalized distances. For ComfyUI."
@@ -367,20 +367,20 @@
         {
             "author": "SeanScripts",
             "title": "ComfyUI-Unload-Model",
-            "reference": "https://github.com/SeanScripts/ComfyUI-Unload-Model",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/SeanScripts/ComfyUI-Unload-Model",
             "files": [
-                "https://github.com/SeanScripts/ComfyUI-Unload-Model"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/SeanScripts/ComfyUI-Unload-Model"
             ],
             "install_type": "git-clone",
-            "description": "For unloading a model or all models, using the memory management that is already present in ComfyUI. Copied from [a/https://github.com/willblaschko/ComfyUI-Unload-Models](https://github.com/willblaschko/ComfyUI-Unload-Models) but without the unnecessary extra stuff."
+            "description": "For unloading a model or all models, using the memory management that is already present in ComfyUI. Copied from [a/https://cloudmix.pro/https%3A%2F%2Fgithub.com/willblaschko/ComfyUI-Unload-Models](https://cloudmix.pro/https%3A%2F%2Fgithub.com/willblaschko/ComfyUI-Unload-Models) but without the unnecessary extra stuff."
         },
         {
             "author": "Shiba-2-shiba",
             "title": "ComfyUI_DiffusionModel_fp8_converter",
             "id": "fp8-converter",
-            "reference": "https://github.com/Shiba-2-shiba/ComfyUI_DiffusionModel_fp8_converter",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Shiba-2-shiba/ComfyUI_DiffusionModel_fp8_converter",
             "files": [
-                "https://github.com/Shiba-2-shiba/ComfyUI_DiffusionModel_fp8_converter"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Shiba-2-shiba/ComfyUI_DiffusionModel_fp8_converter"
             ],
             "install_type": "git-clone",
             "description": "This is a custom node to convert only the Diffusion model part or CLIP model part to fp8 in ComfyUI.\nVAE fp8 conversion is not supported.\nThe advantage of this node is that you do not need to separate unet/clip/vae in advance when converting to fp8, but can use the safetenros files that ComfyUI provides."
@@ -388,9 +388,9 @@
         {
             "author": "Phando",
             "title": "ComfyUI-PhandoNodes",
-            "reference": "https://github.com/Phando/ComfyUI-PhandoNodes",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Phando/ComfyUI-PhandoNodes",
             "files": [
-                "https://github.com/Phando/ComfyUI-PhandoNodes"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Phando/ComfyUI-PhandoNodes"
             ],
             "install_type": "git-clone",
             "description": "A collection of nodes to help streamline your ComfyUI workflows"
@@ -398,9 +398,9 @@
         {
             "author": "geocine",
             "title": "geocine-comfyui",
-            "reference": "https://github.com/geocine/geocine-comfyui",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/geocine/geocine-comfyui",
             "files": [
-                "https://github.com/geocine/geocine-comfyui"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/geocine/geocine-comfyui"
             ],
             "install_type": "git-clone",
             "description": "NODES:Image Selector (geocine), Image Scale (geocine)"
@@ -409,9 +409,9 @@
             "author": "PabloGFX",
             "title": "Head Orientation Node",
             "id": "head-orientation-node",
-            "reference": "https://github.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX",
             "files": [
-                "https://github.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX"
             ],
             "install_type": "git-clone",
             "description": "A custom node for ComfyUI that analyzes and sorts images based on head orientation using MediaPipe. It detects facial landmarks, calculates head pose, and intelligently sorts images for enhanced AI image processing workflows."
@@ -419,9 +419,9 @@
         {
             "author": "45uee",
             "title": "ComfyUI-Color_Transfer",
-            "reference": "https://github.com/45uee/ComfyUI-Color_Transfer",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/45uee/ComfyUI-Color_Transfer",
             "files": [
-                "https://github.com/45uee/ComfyUI-Color_Transfer"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/45uee/ComfyUI-Color_Transfer"
             ],
             "install_type": "git-clone",
             "description": "Implementation of color transfer using KMeans algorithm"
@@ -429,9 +429,9 @@
         {
             "author": "lazniak",
             "title": "Head Orientation Node for ComfyUI",
-            "reference": "https://github.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX",
             "files": [
-                "https://github.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/lazniak/Head-Orientation-Node-for-ComfyUI---by-PabloGFX"
             ],
             "install_type": "git-clone",
             "description": "The Head Orientation Node is a custom node for ComfyUI that analyzes and sorts images based on head orientation. It uses the MediaPipe library to detect facial landmarks and calculate head pose, allowing for intelligent image sorting and matching.\nDeveloped by PabloGFX, this node enhances ComfyUI's capabilities in facial analysis and image processing tasks."
@@ -439,9 +439,9 @@
         {
             "author": "AIFSH",
             "title": "VideoSys-ComfyUI",
-            "reference": "https://github.com/AIFSH/VideoSys-ComfyUI",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/VideoSys-ComfyUI",
             "files": [
-                "https://github.com/AIFSH/VideoSys-ComfyUI"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AIFSH/VideoSys-ComfyUI"
             ],
             "install_type": "git-clone",
             "description": "NODES:TextNode, PreViewVideo, VideoSysNode."
@@ -449,9 +449,9 @@
         {
             "author": "logtd",
             "title": "ComfyUI-MotionThiefExperiment",
-            "reference": "https://github.com/logtd/ComfyUI-MotionThiefExperiment",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-MotionThiefExperiment",
             "files": [
-                "https://github.com/logtd/ComfyUI-MotionThiefExperiment"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-MotionThiefExperiment"
             ],
             "install_type": "git-clone",
             "description": "experimental node pack to test using reference videos for their motion."
@@ -460,9 +460,9 @@
             "author": "Hmily",
             "title": "ComfyUI-Light-Tool",
             "id": "comfyui-light-tool",
-            "reference": "https://github.com/ihmily/ComfyUI-Light-Tool",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/ihmily/ComfyUI-Light-Tool",
             "files": [
-                "https://github.com/ihmily/ComfyUI-Light-Tool"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/ihmily/ComfyUI-Light-Tool"
             ],
             "install_type": "git-clone",
             "description": "An awesome light image processing tool nodes for ComfyUI."
@@ -471,19 +471,19 @@
             "author": "IuvenisSapiens",
             "title": "ComfyUI_Qwen2-VL-Instruct",
             "id": "qwen2-vl-instruct",
-            "reference": "https://github.com/IuvenisSapiens/ComfyUI_Qwen2-VL-Instruct",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/IuvenisSapiens/ComfyUI_Qwen2-VL-Instruct",
             "files": [
-                "https://github.com/IuvenisSapiens/ComfyUI_Qwen2-VL-Instruct"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/IuvenisSapiens/ComfyUI_Qwen2-VL-Instruct"
             ],
             "install_type": "git-clone",
-            "description": "This is an implementation of [a/Qwen2-VL-Instruct](https://github.com/QwenLM/Qwen2-VL) by [a/ComfyUI](https://github.com/comfyanonymous/ComfyUI), which includes, but is not limited to, support for text-based queries, video queries, single-image queries, and multi-image queries to generate captions or responses."
+            "description": "This is an implementation of [a/Qwen2-VL-Instruct](https://cloudmix.pro/https%3A%2F%2Fgithub.com/QwenLM/Qwen2-VL) by [a/ComfyUI](https://cloudmix.pro/https%3A%2F%2Fgithub.com/comfyanonymous/ComfyUI), which includes, but is not limited to, support for text-based queries, video queries, single-image queries, and multi-image queries to generate captions or responses."
         },
         {
             "author": "k-komarov",
             "title": "comfyui-bunny-cdn-storage",
-            "reference": "https://github.com/k-komarov/comfyui-bunny-cdn-storage",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/k-komarov/comfyui-bunny-cdn-storage",
             "files": [
-                "https://github.com/k-komarov/comfyui-bunny-cdn-storage"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/k-komarov/comfyui-bunny-cdn-storage"
             ],
             "install_type": "git-clone",
             "description": " Save Your Image to BunnyStorage"
@@ -491,9 +491,9 @@
         {
             "author": "xlinx",
             "title": "ComfyUI-decadetw-spout-syphon-im-vj",
-            "reference": "https://github.com/xlinx/ComfyUI-decadetw-spout-syphon-im-vj",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/xlinx/ComfyUI-decadetw-spout-syphon-im-vj",
             "files": [
-                "https://github.com/xlinx/ComfyUI-decadetw-spout-syphon-im-vj"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/xlinx/ComfyUI-decadetw-spout-syphon-im-vj"
             ],
             "install_type": "git-clone",
             "description": "I'm SD-VJ. (share SD-generating-process in realtime by gpu)"
@@ -501,9 +501,9 @@
         {
             "author": "logtd",
             "title": "ComfyUI-ReNoise",
-            "reference": "https://github.com/logtd/ComfyUI-ReNoise",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-ReNoise",
             "files": [
-                "https://github.com/logtd/ComfyUI-ReNoise"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-ReNoise"
             ],
             "install_type": "git-clone",
             "description": "ComfyUI nodes to use ReNoise"
@@ -511,9 +511,9 @@
         {
             "author": "MinusZoneAI",
             "title": "ComfyUI-CogVideoX-MZ",
-            "reference": "https://github.com/MinusZoneAI/ComfyUI-CogVideoX-MZ",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MinusZoneAI/ComfyUI-CogVideoX-MZ",
             "files": [
-                "https://github.com/MinusZoneAI/ComfyUI-CogVideoX-MZ"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/MinusZoneAI/ComfyUI-CogVideoX-MZ"
             ],
             "install_type": "git-clone",
             "description": "Nodes:MZ_CogVideoXLoader"
@@ -522,20 +522,20 @@
             "author": "pzc163",
             "title": "Comfyui_MiniCPMv2_6-prompt-generator",
             "id": "Comfyui_MiniCPMv2_6-prompt-generator",
-            "reference": "https://github.com/pzc163/Comfyui_MiniCPMv2_6-prompt-generator",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/pzc163/Comfyui_MiniCPMv2_6-prompt-generator",
             "files": [
-                "https://github.com/pzc163/Comfyui_MiniCPMv2_6-prompt-generator"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/pzc163/Comfyui_MiniCPMv2_6-prompt-generator"
             ],
             "install_type": "git-clone",
-            "description": "This is an implementation of [MiniCPMv2_6-prompt-generator](https://huggingface.co/pzc163/MiniCPMv2_6-prompt-generator) by [ComfyUI](https://github.com/comfyanonymous/ComfyUI), including support for single-image caption, generate prompt by upload image and batch-images Prompt generation."
+            "description": "This is an implementation of [MiniCPMv2_6-prompt-generator](https://cloudmix.pro/https%3A%2F%2Fhuggingface.co/pzc163/MiniCPMv2_6-prompt-generator) by [ComfyUI](https://cloudmix.pro/https%3A%2F%2Fgithub.com/comfyanonymous/ComfyUI), including support for single-image caption, generate prompt by upload image and batch-images Prompt generation."
         },
         {
             "author": "Bao Pham",
             "title": "ComfyUI-LyraVSIH",
             "id": "lyra-vsih",
-            "reference": "https://github.com/pbpbpb2705/ComfyUI-LyraVSIH",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/pbpbpb2705/ComfyUI-LyraVSIH",
             "files": [
-                "https://github.com/pbpbpb2705/ComfyUI-LyraVSIH"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/pbpbpb2705/ComfyUI-LyraVSIH"
             ],
             "install_type": "git-clone",
             "description": "This extension provides a set of nodes that can be used to mask multiple object at once"
@@ -543,9 +543,9 @@
         {
             "author": "leeguandong",
             "title": "ComfyUI nodes to use MasaCtrl",
-            "reference": "https://github.com/leeguandong/ComfyUI_MasaCtrl",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/leeguandong/ComfyUI_MasaCtrl",
             "files": [
-                "https://github.com/leeguandong/ComfyUI_MasaCtrl"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/leeguandong/ComfyUI_MasaCtrl"
             ],
             "install_type": "git-clone",
             "description": "ComfyUI nodes to use MasaCtrl"
@@ -553,9 +553,9 @@
         {
             "author": "AbyssBadger0",
             "title": "Kolors Awesome Prompts",
-            "reference": "https://github.com/AbyssBadger0/ComfyUI_Kolors_awesome_prompts",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AbyssBadger0/ComfyUI_Kolors_awesome_prompts",
             "files": [
-                "https://github.com/AbyssBadger0/ComfyUI_Kolors_awesome_prompts"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/AbyssBadger0/ComfyUI_Kolors_awesome_prompts"
             ],
             "install_type": "git-clone",
             "description": "Nodes:KolorsAwesomePrompts"
@@ -564,9 +564,9 @@
             "author": "florestefano1975",
             "title": "Advanced Sequence Seed Generator",
             "id": "adv-seq-seed-gen",
-            "reference": "https://github.com/florestefano1975/ComfyUI-Advanced-Sequence-Seed",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/florestefano1975/ComfyUI-Advanced-Sequence-Seed",
             "files": [
-                "https://github.com/florestefano1975/ComfyUI-Advanced-Sequence-Seed"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/florestefano1975/ComfyUI-Advanced-Sequence-Seed"
             ],
             "install_type": "git-clone",
             "description": "A simple seed generator based on special number sequences: Fibonacci, Prime, Padovan, Triangular, Catalan, Pell, Lucas"
@@ -575,9 +575,9 @@
             "author": "logtd",
             "title": "ComfyUI-4DHumans",
             "id": "comfyui-4dhumans",
-            "reference": "https://github.com/logtd/ComfyUI-4DHumans",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-4DHumans",
             "files": [
-                "https://github.com/logtd/ComfyUI-4DHumans"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/logtd/ComfyUI-4DHumans"
             ],
             "install_type": "git-clone",
             "description": "ComfyUI nodes to use [a/4D-Humans](ComfyUI nodes to use 4D-Humans)"
@@ -586,9 +586,9 @@
             "author": "Shiba-2-shiba",
             "title": "ComfyUI-color-ascii-art-node",
             "id": "asciiart",
-            "reference": "https://github.com/Shiba-2-shiba/comfyui-color-ascii-art-node",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Shiba-2-shiba/comfyui-color-ascii-art-node",
             "files": [
-                "https://github.com/Shiba-2-shiba/comfyui-color-ascii-art-node"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Shiba-2-shiba/comfyui-color-ascii-art-node"
             ],
             "install_type": "git-clone",
             "description": "This is a custom node to convert png images into color ASCII art. As noted below, multiple font sizes are used in the specification. The resolution of the generated file is set to be the same as the input image."
@@ -597,9 +597,9 @@
             "author": "mittimi",
             "title": "ComfyUI_mittimiRecalculateSize",
             "id": "comfyui_mittimi_recalculate_size",
-            "reference": "https://github.com/mittimi/ComfyUI_mittimiRecalculateSize",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/mittimi/ComfyUI_mittimiRecalculateSize",
             "files": [
-                "https://github.com/mittimi/ComfyUI_mittimiRecalculateSize"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/mittimi/ComfyUI_mittimiRecalculateSize"
             ],
             "install_type": "git-clone",
             "description": "This is the node that performs the magnification calculation."
@@ -608,9 +608,9 @@
             "author": "mittimi",
             "title": "ComfyUI_mittimiWidthHeight",
             "id": "comfyui_mittimi_width_height",
-            "reference": "https://github.com/mittimi/ComfyUI_mittimiWidthHeight",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/mittimi/ComfyUI_mittimiWidthHeight",
             "files": [
-                "https://github.com/mittimi/ComfyUI_mittimiWidthHeight"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/mittimi/ComfyUI_mittimiWidthHeight"
             ],
             "install_type": "git-clone",
             "description": "This node can easily switch between vertical and horizontal values with a single button."
@@ -618,9 +618,9 @@
         {
             "author": "fssorc",
             "title": "ComfyUI_pose_inter",
-            "reference": "https://github.com/fssorc/ComfyUI_pose_inter",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/fssorc/ComfyUI_pose_inter",
             "files": [
-                "https://github.com/fssorc/ComfyUI_pose_inter"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/fssorc/ComfyUI_pose_inter"
             ],
             "install_type": "git-clone",
             "description": "Generate transition frames between two character posture images. The prerequisite for running is to have installed comfyui_controlnet_aux, using its Open Pose or DWPose preprocessor"
@@ -628,30 +628,30 @@
         {
             "author": "kijai",
             "title": "ComfyUI CogVideoX Wrapper",
-            "reference": "https://github.com/kijai/ComfyUI-CogVideoXWrapper",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kijai/ComfyUI-CogVideoXWrapper",
             "files": [
-                "https://github.com/kijai/ComfyUI-CogVideoXWrapper"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kijai/ComfyUI-CogVideoXWrapper"
             ],
             "install_type": "git-clone",
-            "description": "Diffusers wrapper for CogVideoX -models: [a/https://github.com/THUDM/CogVideo](https://github.com/THUDM/CogVideo)"
+            "description": "Diffusers wrapper for CogVideoX -models: [a/https://cloudmix.pro/https%3A%2F%2Fgithub.com/THUDM/CogVideo](https://cloudmix.pro/https%3A%2F%2Fgithub.com/THUDM/CogVideo)"
         },
         {
             "author": "kijai",
             "title": "ComfyUI Llava-OneVision",
-            "reference": "https://github.com/kijai/ComfyUI-LLaVA-OneVision",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kijai/ComfyUI-LLaVA-OneVision",
             "files": [
-                "https://github.com/kijai/ComfyUI-LLaVA-OneVision"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/kijai/ComfyUI-LLaVA-OneVision"
             ],
             "install_type": "git-clone",
-            "description": "Nodes to use the OneVision LLaVA models: [a/https://github.com/LLaVA-VL/LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)"
+            "description": "Nodes to use the OneVision LLaVA models: [a/https://cloudmix.pro/https%3A%2F%2Fgithub.com/LLaVA-VL/LLaVA-NeXT](https://cloudmix.pro/https%3A%2F%2Fgithub.com/LLaVA-VL/LLaVA-NeXT)"
         },
         {
             "author": "marduk191",
             "title": "Flux Prompt Enhance Node for ComfyUI",
             "id": "fluxpromptenhancer",
-            "reference": "https://github.com/marduk191/ComfyUI-Fluxpromptenhancer",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/marduk191/ComfyUI-Fluxpromptenhancer",
             "files": [
-                "https://github.com/marduk191/ComfyUI-Fluxpromptenhancer"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/marduk191/ComfyUI-Fluxpromptenhancer"
             ],
             "install_type": "git-clone",
             "description": "This custom node for ComfyUI integrates the Flux-Prompt-Enhance model, allowing you to enhance your prompts directly within your ComfyUI workflows."
@@ -660,9 +660,9 @@
             "author": "Isi-dev",
             "title": "ComfyUI-Img2DrawingAssistants",
             "id": "Img2DrawingAssistants",
-            "reference": "https://github.com/Isi-dev/ComfyUI-Img2DrawingAssistants",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Isi-dev/ComfyUI-Img2DrawingAssistants",
             "files": [
-                "https://github.com/Isi-dev/ComfyUI-Img2DrawingAssistants"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/Isi-dev/ComfyUI-Img2DrawingAssistants"
             ],
             "install_type": "git-clone",
             "description": "These are ComfyUI nodes to assist in converting an image to sketches or lineArts."
@@ -670,9 +670,9 @@
         {
             "author": "celoron",
             "title": "ComfyUI-VisualQueryTemplate",
-            "reference": "https://github.com/celoron/ComfyUI-VisualQueryTemplate",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/celoron/ComfyUI-VisualQueryTemplate",
             "files": [
-                "https://github.com/celoron/ComfyUI-VisualQueryTemplate"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/celoron/ComfyUI-VisualQueryTemplate"
             ],
             "install_type": "git-clone",
             "description": "A ComfyUI node for transforming images into descriptive text using templated visual question answering. Leverages Hugging Face's VQA models with transformers"
@@ -681,9 +681,9 @@
             "author": "drmbt",
             "title": "comfyui-dreambait-nodes",
             "id": "drmbt",
-            "reference": "https://github.com/drmbt/comfyui-dreambait-nodes",
+            "reference": "https://cloudmix.pro/https%3A%2F%2Fgithub.com/drmbt/comfyui-dreambait-nodes",
             "files": [
-                "https://github.com/drmbt/comfyui-dreambait-nodes"
+                "https://cloudmix.pro/https%3A%2F%2Fgithub.com/drmbt/comfyui-dreambait-nodes"
             ],
             "install_type": "git-clone",
             "description": "A collection of forks, QoL nodes and utilities for ComfyUI"
